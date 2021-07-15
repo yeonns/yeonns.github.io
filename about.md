@@ -11,8 +11,8 @@ layout: page
 <ul class="skill-list">
 	<li>NAND Flash</li>
 	<li>Linux Kernel</li>
-	<li>Frontend (AngularJS)</li>
-	<li>Backend (NodeJS, Spring)</li>
+	<li>Frontend</li>
+	<li>Backend</li>
 	<li>Android App Programming</li>
 </ul>
 
