@@ -1,11 +1,6 @@
 # main text of home
-<<<<<<< HEAD
 name: YeonSeong Hwang
 bio: Software Engineer
-=======
-name: John Doe
-bio: A Man who travels the world eating noodles
->>>>>>> 8d2174e5d856922c13024c87ddd83c1f89d8f397
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,8 +8,6 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-<<<<<<< HEAD
-picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -23,18 +16,7 @@ resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://yeonns.github.io
-=======
-picture: assets/images/profile.jpg
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
-
-url: https://sergiokopplin.github.io/indigo
->>>>>>> 8d2174e5d856922c13024c87ddd83c1f89d8f397
-# your url: https://USERNAME.github.io
+picture: assets/images/profile.png
 
 permalink: /:title/
 
