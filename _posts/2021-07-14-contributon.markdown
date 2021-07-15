@@ -6,7 +6,6 @@ image: /assets/images/markdown.jpg
 headerImage: false
 hidden: false
 tag:
-- contributionacademy
 - opensource
 - euphony
 star: true
